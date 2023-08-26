@@ -1,0 +1,16 @@
+LOCAL RUNTIME:
+
+Angular CLI: 15.2.2
+Node: 18.15.0
+Package Manager: npm 9.5.0
+OS: darwin arm64
+
+Angular: 
+... 
+
+Package                      Version
+------------------------------------------------------
+@angular-devkit/architect    0.1502.2 (cli-only)
+@angular-devkit/core         15.2.2 (cli-only)
+@angular-devkit/schematics   15.2.2 (cli-only)
+@schematics/angular          15.2.2 (cli-only)
